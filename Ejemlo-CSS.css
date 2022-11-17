@@ -1,0 +1,11 @@
+/*Esto es un ejemplo de un archivo CSS. DEbe ir asociado a otro archivo para dar estilos a 
+páginas web. Normalmente, .html*/
+.h1 {
+    font-weight: bold;
+}
+.p {
+    color: blue;
+}
+*div {
+    background-color: brown;  
+}
